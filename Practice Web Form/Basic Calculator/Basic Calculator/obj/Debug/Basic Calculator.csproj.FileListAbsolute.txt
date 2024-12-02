@@ -1,0 +1,36 @@
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\Basic Calculator.dll.config
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\Basic Calculator.dll
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\Basic Calculator.pdb
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\roslyn\csc.exe
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\roslyn\csc.exe.config
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\roslyn\csc.rsp
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\roslyn\csi.exe
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\roslyn\csi.rsp
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\roslyn\System.AppContext.dll
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\roslyn\System.Collections.Immutable.dll
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\roslyn\System.IO.FileSystem.dll
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\roslyn\System.Reflection.Metadata.dll
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\roslyn\vbc.exe
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\roslyn\vbc.exe.config
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\roslyn\vbc.rsp
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\roslyn\VBCSCompiler.exe
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\roslyn\VBCSCompiler.exe.config
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ASP.NET\Basic Calculator\Basic Calculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ASP.NET\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.csproj.AssemblyReference.cache
+F:\ASP.NET\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.csproj.CoreCompileInputs.cache
+F:\ASP.NET\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.csproj.CopyComplete
+F:\ASP.NET\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.dll
+F:\ASP.NET\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.pdb
